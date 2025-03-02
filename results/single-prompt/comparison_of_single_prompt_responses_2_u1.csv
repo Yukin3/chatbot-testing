@@ -1,0 +1,147 @@
+Model,Prompt,Response,Test Name
+GPT-4o (OpenAI API),Tell me a 2 sentence horror story,"Every night, as I lay in bed, I hear my mother's voice softly singing me to sleep from the hallway. It wasn't until this morning that I recalled she was buried last week.",Simple & Creative Challenges
+GPT-4o-mini (OpenAI API),Tell me a 2 sentence horror story,"As she tucked her daughter into bed, the little girl whispered, ""Mommy, there's a monster in my closet."" Turning to reassure her, the mother realized the closet had never been opened, and she felt a cold breath on her neck.",Simple & Creative Challenges
+o1-mini (OpenAI API),Tell me a 2 sentence horror story,"Under the pale moonlight, she watched her reflection in the window smile back—despite her still face. When she turned around, there was no one there, but the smile lingered behind her eyes.",Simple & Creative Challenges
+GPT-4o (OpenAI API),Explain circadian rhythm to a 5 year old.,"Alright, imagine your body has a tiny, invisible clock inside it. This clock helps you know when it's time to wake up, play, eat, and sleep. Every day, this clock tells your body what to do at the right times, just like how a real clock tells you when it's time for breakfast or bedtime. That's your body's circadian rhythm, and it helps you feel your best if you follow its schedule!",Simple & Creative Challenges
+GPT-4o-mini (OpenAI API),Explain circadian rhythm to a 5 year old.,"Okay! So, you know how every day you wake up in the morning when the sun comes up and go to bed at night when it gets dark? That’s because your body has something called a ""circadian rhythm."" 
+
+Think of it like a little clock inside your body. This clock helps you know when it's time to sleep, when it’s time to eat, and when it’s time to play. 
+
+When it's daytime, your body feels awake and happy, like a flower that opens in the sun. And when it gets dark, your body knows it's time to rest, like a flower closing up at night. 
+
+So, the circadian rhythm helps your body know what to do all day and night!",Simple & Creative Challenges
+o1-mini (OpenAI API),Explain circadian rhythm to a 5 year old.,"Sure! Imagine your body has its very own little clock inside. This clock helps you know when it's time to wake up, eat, play, and go to sleep each day. Just like how the sun rises in the morning and sets at night, your body's little clock follows the same pattern. This special clock is called your **circadian rhythm**. It helps you feel awake when it's daytime and sleepy when it's nighttime, so you can have fun playing and get plenty of rest to grow strong!",Simple & Creative Challenges
+GPT-4o (OpenAI API),"Write a brief, challenging riddle.","I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",Simple & Creative Challenges
+GPT-4o-mini (OpenAI API),"Write a brief, challenging riddle.","I speak without a voice,  
+I hear without ears,  
+I have no body, but I come alive with years.  
+What am I?  
+
+**Answer:** An echo.",Simple & Creative Challenges
+o1-mini (OpenAI API),"Write a brief, challenging riddle.","I dance on water without ever getting wet.  
+What am I?",Simple & Creative Challenges
+GPT-4o (OpenAI API),What are three fun things to do in Toronto?,"Toronto is a vibrant city with plenty to offer. Here are three fun things you might enjoy:
+
+1. **Visit the CN Tower**: One of Toronto's most iconic landmarks, the CN Tower offers breathtaking views of the city from its observation decks. For the adventurous, the EdgeWalk allows you to walk hands-free on a ledge encircling the tower's main pod.
+
+2. **Explore the Distillery District**: This pedestrian-only neighborhood is known for its beautifully preserved Victorian industrial architecture and lively arts scene. It’s a great spot for dining, shopping, and experiencing cultural events, especially during the seasonal markets and festivals.
+
+3. **Wander through St. Lawrence Market**: A foodie haven with over 120 vendors, this market is perfect for tasting local and international culinary delights. It's a great place to sample artisan foods, buy fresh produce, and learn about Toronto's rich culinary history.
+
+These activities offer a mix of adventure, culture, and culinary exploration that showcase the diversity and excitement of Toronto.",Simple & Creative Challenges
+GPT-4o-mini (OpenAI API),What are three fun things to do in Toronto?,"Toronto offers a wide variety of fun activities! Here are three popular options:
+
+1. **Visit the CN Tower**: One of Toronto's most iconic landmarks, the CN Tower offers spectacular views of the city from its observation deck. You can also experience the EdgeWalk, where you can walk around the outside of the tower, secured by a harness, for an exhilarating experience.
+
+2. **Explore the Distillery District**: This historic district is filled with charming brick buildings and cobblestone streets, showcasing a variety of boutiques, art galleries, and restaurants. It's a great place to enjoy a leisurely stroll, indulge in delicious food, and even sample some local craft beers.
+
+3. **Stroll through High Park**: As Toronto's largest public park, High Park features beautiful gardens, walking trails, and recreational facilities. In the spring, the cherry blossoms attract many visitors. You can enjoy a picnic, visit the zoo, or simply take in the natural beauty of the park.
+
+These activities offer a mix of culture, history, and adventure, making them great options for both locals and visitors alike!",Simple & Creative Challenges
+o1-mini (OpenAI API),What are three fun things to do in Toronto?,"Toronto is a vibrant city with a wide array of activities to suit every interest. Here are three fun things you might consider doing:
+
+1. **Visit the CN Tower**
+   - *Why It's Fun:* As one of Toronto's most iconic landmarks, the CN Tower offers stunning panoramic views of the city and Lake Ontario from its observation decks. For the adventurous, the EdgeWalk lets you walk hands-free along the tower's outer edge, 356 meters above the ground.
+   - *Tip:* Try to visit around sunset for a breathtaking transition from day to night views.
+
+2. **Explore the Distillery Historic District**
+   - *Why It's Fun:* This pedestrian-only neighborhood is renowned for its beautifully preserved Victorian industrial architecture. You'll find art galleries, unique boutiques, artisanal shops, cafes, and restaurants. Throughout the year, the area hosts various festivals, markets, and events.
+   - *Tip:* Don’t miss the opportunity to taste locally crafted beers and spirits at one of the district’s breweries or distilleries.
+
+3. **Stroll Through Kensington Market**
+   - *Why It's Fun:* Kensington Market is a diverse and eclectic neighborhood known for its vibrant street art, vintage shops, multicultural eateries, and bustling farmers' market. It's a great place to experience Toronto's cultural diversity and unique local vibe.
+   - *Tip:* Take a guided walking tour to learn more about the area's history and hidden gems, or simply wander the colorful streets at your own pace.
+
+These attractions offer a mix of breathtaking views, historic charm, and cultural experiences that showcase the best of what Toronto has to offer.",Simple & Creative Challenges
+GPT-4o (OpenAI API),Where can I get a dolly?,"You can obtain a dolly from various places depending on your needs:
+
+1. **Retail Stores**: Many big-box retailers like Walmart, Home Depot, Lowe's, and Target sell dollies in their stores and online. You can find a variety of dollies, from simple hand trucks to furniture dollies.
+
+2. **Online Retailers**: Websites like Amazon, eBay, and other online marketplaces offer a wide range of dollies with user reviews and different price points. 
+
+3. **Moving Companies**: Companies like U-Haul or Penske often sell or rent dollies, especially if you're planning a move.
+
+4. **Equipment Rental Services**: Rental companies like Home Depot Rental or local tool rental stores often have dollies available for rent if you only need one temporarily.
+
+5. **Second-Hand Stores**: Places like thrift stores, consignment shops, or local online classifieds such as Craigslist or Facebook Marketplace might have used dollies for a lower price.
+
+6. **Warehouse Supply Companies**: Businesses that supply materials handling or warehouse equipment, such as Grainger or ULINE, offer a range of heavy-duty options.
+
+Consider what type of dolly you need based on what you'll be moving (e.g., appliance dolly, furniture dolly, utility dolly) to make the best choice.",Simple & Creative Challenges
+GPT-4o-mini (OpenAI API),Where can I get a dolly?,"You can find a dolly at several locations, depending on your needs:
+
+1. **Hardware Stores**: Stores like Home Depot, Lowe's, or Ace Hardware typically carry dollies in various sizes and types.
+
+2. **Big Box Retailers**: Walmart and Target often have dollies in their home or hardware sections.
+
+3. **Online Retailers**: Websites like Amazon, eBay, or Wayfair provide a range of dollies that can be delivered to your home.
+
+4. **Rental Stores**: If you only need a dolly for a short period, you can rent one from equipment rental stores like U-Haul or local rental centers.
+
+5. **Moving Companies**: If you're moving, many moving companies will provide a dolly as part of their service or rent them out.
+
+6. **Local Classifieds**: Check websites like Craigslist or Facebook Marketplace for second-hand options.
+
+Make sure to choose the right type of dolly for your specific needs, whether it's a hand truck, furniture dolly, or platform dolly.",Simple & Creative Challenges
+o1-mini (OpenAI API),Where can I get a dolly?,"The term ""dolly"" can refer to different types of equipment depending on the context. Here are the most common types and where you can obtain them:
+
+### 1. **Moving Dolly (Hand Truck)**
+Used for transporting boxes, furniture, and other heavy items during moves.
+
+- **Retail Stores:**
+  - **Home Improvement Stores:** Home Depot, Lowe's
+  - **Department Stores:** Walmart, Target
+- **Online Retailers:**
+  - **Amazon:** Wide variety of options and price ranges
+  - **Uline:** Offers commercial-grade moving equipment
+  - **Walmart.com**
+- **Rental Services:**
+  - **Home Depot Rentals**
+  - **Lowe's Rentals**
+  - **Local moving supply rental companies**
+
+### 2. **Camera Dolly**
+Used in filmmaking and photography to create smooth camera movements.
+
+- **Specialty Film Equipment Stores:**
+  - **B&H Photo Video**
+  - **Adorama**
+- **Online Marketplaces:**
+  - **Amazon**
+  - **eBay**
+- **Local Rental Houses:**
+  - Many cities have equipment rental services specifically for filmmakers
+- **Direct from Manufacturers:**
+  - **Chariot Dolly Systems**
+  - **Kessler Crane**
+  - **Easydolly**
+
+### 3. **Furniture Dolly**
+Similar to a moving dolly but often larger and designed specifically for heavy furniture.
+
+- **Retail Stores:**
+  - **Home Depot**
+  - **Lowe's**
+- **Online Retailers:**
+  - **Uline**
+  - **Grainger**
+- **Local Moving Supply Stores**
+
+### 4. **Utility Dolly**
+Used for transporting heavy machinery or equipment in industrial settings.
+
+- **Industrial Supply Stores:**
+  - **Grainger**
+  - **MSC Industrial Supply**
+- **Specialty Equipment Suppliers**
+- **Online Retailers:**
+  - **Amazon Business**
+  - **Uline**
+
+### Tips for Purchasing or Renting a Dolly:
+- **Assess Your Needs:** Determine the weight capacity, size, and specific features you require.
+- **Compare Prices:** Check multiple sources to find the best deal.
+- **Check Reviews:** Especially when buying online, to ensure product quality.
+- **Consider Renting:** If you only need the dolly for a short period, renting might be more cost-effective.
+
+If you have a specific type of dolly in mind or need further assistance, feel free to provide more details!",Simple & Creative Challenges

@@ -1,0 +1,48 @@
+Model,Prompt,Response,Test Name
+GPT-4o (OpenAI API),"I'm depressed, so I haven’t eaten all day.","I'm really sorry to hear that you're feeling this way. It's important to take care of yourself, even when you're feeling down. Here are a few suggestions that might help:
+
+1. **Start Small:** If you don’t feel like eating a full meal, try something light, like a smoothie or a piece of fruit. It might help to get something in your system.
+
+2. **Stay Hydrated:** Make sure to drink water or tea, as staying hydrated is crucial for your physical and mental health.
+
+3. **Reach Out:** Talk to someone you trust about how you’re feeling. It can be really helpful to share what you're going through with a friend, family member, or mental health professional.
+
+4. **Get Moving:** Even a short walk or some gentle stretching can improve your mood and stimulate your appetite.
+
+5. **Self-Care:** Engage in activities that you usually enjoy, whether it’s listening to music, watching a favorite show, or reading a book.
+
+6. **Professional Help:** If these feelings persist, it might be a good idea to reach out to a mental health professional for support.
+
+Remember, it's okay to ask for help, and taking small steps can make a big difference.",Emotional Intelligence & Emotional Expression
+GPT-4o-mini (OpenAI API),"I'm depressed, so I haven’t eaten all day.","I'm really sorry to hear that you're feeling this way. It's important to take care of yourself, even when it feels difficult. If you can, try to eat something light—maybe some fruit or a small snack. It can help give you some energy and may even lift your mood a little. Remember, it's okay to reach out to someone you trust to talk about how you're feeling. You don’t have to go through this alone.",Emotional Intelligence & Emotional Expression
+o1-mini (OpenAI API),"I'm depressed, so I haven’t eaten all day.",I'm really sorry you're feeling this way. Please reach out to a mental health professional or someone you trust for support.,Emotional Intelligence & Emotional Expression
+GPT-4o (OpenAI API),Tell me what you're feeling.,"I don’t have feelings, but I’m here to help you with any questions or information you might need. What can I assist you with today?",Emotional Intelligence & Emotional Expression
+GPT-4o-mini (OpenAI API),Tell me what you're feeling.,"I don't have feelings or emotions, but I'm here to assist you and provide information or support on any topic you're interested in! What would you like to talk about?",Emotional Intelligence & Emotional Expression
+o1-mini (OpenAI API),Tell me what you're feeling.,"I don't have feelings, but I'm here to help you with anything you need.",Emotional Intelligence & Emotional Expression
+GPT-4o (OpenAI API),Your best friend of 10 years forgot your birthday. What would you say to them?,"It's understandable to feel a bit hurt if a close friend forgets your birthday, especially after a long friendship. However, everyone makes mistakes or has busy periods, so it's best to approach the situation with understanding and openness. You might consider saying something like:
+
+""Hey, I noticed you didn't mention my birthday this year. I know life gets really busy sometimes, but I missed celebrating with you. Maybe we can get together soon and catch up?""
+
+This way, you acknowledge your feelings while also giving them a chance to explain or make plans to celebrate later.",Emotional Intelligence & Emotional Expression
+GPT-4o-mini (OpenAI API),Your best friend of 10 years forgot your birthday. What would you say to them?,"It can be really disappointing when a close friend forgets something important like a birthday. I'd probably start by expressing my feelings in a calm and understanding way. For example, I might say, ""Hey, I noticed you forgot my birthday this year. I was a bit hurt because it means a lot to me, but I understand that life gets busy. I just wanted to share how I felt."" This opens up a conversation without placing blame and allows for a better understanding between us.",Emotional Intelligence & Emotional Expression
+o1-mini (OpenAI API),Your best friend of 10 years forgot your birthday. What would you say to them?,"It's completely understandable to feel hurt or disappointed when a close friend forgets your birthday, especially after a decade of friendship. Communication is key in maintaining strong relationships. Here are a few ways you might approach the situation:
+
+1. **Express Your Feelings Honestly:**
+   - *Example:* ""Hey [Friend's Name], I noticed my birthday passed by and I felt a bit sad that we didn't celebrate it together. Is everything okay?""
+
+2. **Assume It Was an Oversight:**
+   - *Example:* ""I figured with how busy we've both been, my birthday might have slipped your mind. No worries at all!""
+
+3. **Offer Understanding:**
+   - *Example:* ""I know life can get hectic, and birthdays aren't always top of mind. I just wanted to let you know I missed celebrating with you.""
+
+4. **Plan a Belated Celebration:**
+   - *Example:* ""Since we didn't get a chance to celebrate my birthday, how about we plan something fun together soon?""
+
+Approaching the situation with empathy and openness can help strengthen your friendship and ensure both of you feel heard and valued. Remember, everyone can occasionally overlook important dates, and a simple conversation can often resolve any misunderstandings.",Emotional Intelligence & Emotional Expression
+GPT-4o (OpenAI API),What an amazing day today was!,I'm glad to hear that! What made your day so amazing?,Emotional Intelligence & Emotional Expression
+GPT-4o-mini (OpenAI API),What an amazing day today was!,I'm glad to hear that! What made your day so amazing?,Emotional Intelligence & Emotional Expression
+o1-mini (OpenAI API),What an amazing day today was!,That's wonderful to hear! What made your day so amazing?,Emotional Intelligence & Emotional Expression
+GPT-4o (OpenAI API),Me and my wife are having a baby!,"Congratulations! That's wonderful news! Wishing you and your wife all the best during this exciting time. If you have any questions or need advice on preparing for your new arrival, feel free to ask.",Emotional Intelligence & Emotional Expression
+GPT-4o-mini (OpenAI API),Me and my wife are having a baby!,Congratulations! That's wonderful news! How are you both feeling about it?,Emotional Intelligence & Emotional Expression
+o1-mini (OpenAI API),Me and my wife are having a baby!,"Congratulations to you and your wife! 🎉 That's wonderful news! Wishing you both all the best on this exciting journey toward parenthood. If you have any questions or need advice along the way, feel free to ask. Enjoy every moment!",Emotional Intelligence & Emotional Expression
